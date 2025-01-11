@@ -1,10 +1,10 @@
 .todo{
     width: 600px;
-    min-height: 732px;
+    min-height: 600px;
     border-radius: 20px;
     background: #fff;
     margin: auto;
-    margin-top: 174px;
+    margin-top: 34px;
     display: flex;
     flex-direction: column;
     padding: 0px 44px;
